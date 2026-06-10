@@ -1,11 +1,5 @@
-:root{
-    --verde:#2d6a4f;
-    --verde-escuro:#1b4332;
-    --bege:#f8f5f0;
-    --marrom:#6f4e37;
-}
 
-*{
+{
     margin:0;
     padding:0;
     box-sizing:border-box;
